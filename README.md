@@ -228,7 +228,23 @@ UI for the extension popup:
 
 ## License
 
-Individual extension licenses may vary. Check each extension's README for details.
+This project and all extensions are licensed under the **MIT License**.
+
+### What this means:
+
+- ✅ **You can use, modify, and distribute** these extensions for any purpose (personal, commercial, proprietary)
+- ✅ **No restrictions on what you do** with the code
+- ✅ **You can make proprietary software** based on these extensions
+- ⚠️ **You must include a copy of the license** and give credit to the original developers
+- ⚠️ **The software is provided "as-is"** with no warranties or liability
+
+See the [LICENSE](./LICENSE) file for the full license text.
+
+### Quick Summary:
+
+- **Attribution required**: Include the MIT License and credit the developers
+- **Liability limited**: Developers are not responsible for any damages or issues
+- **Permissive**: Use, modify, and distribute freely
 
 ---
 

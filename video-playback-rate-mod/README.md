@@ -51,3 +51,12 @@ Next improvements (optional):
 - Persist last-used rate in chrome.storage and restore it when the popup opens.
 - Auto-apply a saved rate when a page loads (content script reads storage).
 - Add keyboard shortcuts (manifest commands) to quickly adjust speed.
+
+---
+
+## License
+
+This extension is licensed under the **MIT License**. See the [LICENSE](../LICENSE) file in the parent directory for details.
+
+You are free to use, modify, and distribute this extension for any purpose (personal or commercial). Just give credit to the original developers.
+
